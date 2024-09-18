@@ -6,5 +6,5 @@ Cleaned, modelled and analyzed 7 datasets to uncover insights into content trend
 Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
 
 
-I was using python to chalenge the project.
+I was using python to do the project.
 
